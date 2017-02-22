@@ -65,5 +65,7 @@ See the CONTRIBUTING file for how to help out.
 #### Contributors
 Spencer Beecher, Don van der Drift, David Martin, Lindsay Vass, Sergey Goder, Benedict Lim, and Matt Langner.
 
+Special thanks to Eytan Bakshy.
+
 ## License
 **bootstrapped** is BSD-licensed. We also provide an additional patent grant.
